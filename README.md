@@ -27,7 +27,7 @@ Base64 / Pathlib – for image handling and encoding
 
 🚀 Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/mental-health-support-chatbot.git
+git clone https://github.com/Ashutosh-07sharma/mental-health-support-chatbot.git
 cd mental-health-support-chatbot
 
 2️⃣ Install dependencies
